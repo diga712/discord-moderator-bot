@@ -1,5 +1,5 @@
 module.exports = {
-    code: "discord.gg/wicks",
+    code: "https://discord.gg/UKsDzmeT5z",
     token: "",
     PORT:3000
 };
