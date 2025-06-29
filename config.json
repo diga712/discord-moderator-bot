@@ -1,16 +1,16 @@
 {
-  "clientId": "bot_id",
-  "guildId": "server_id",
+  "clientId": "1314338946435780718",
+  "guildId": "1233878281871298560",
   "autoRole": {
-    "userRoleId": "auto_user_role_id",
-    "botRoleId": "auto_bot_role_id"
+    "userRoleId": "1388100482471432212",
+    "botRoleId": "1388100437198246031"
   },
   "ticketSettings": {
     "ticketSetup": {
       "embedColor": "#0099ff",
       "embedTitle": "Ticket System Setup",
       "embedDescription": "Click one of the buttons below to create a ticket.",
-      "embedImage": "https://media.discordapp.net/attachments/1219719119079866498/1219854567978700850/DALLE_2024-01-07_05.36.38_-_A_stylish_banner_featuring_the_name_WICK_in_sleek_modern_letters._The_color_scheme_includes_deep_black_for_the_background_and_a_vivid_red_for_the_l.png?ex=660cd118&is=65fa5c18&hm=3255e1ca326e1e95e1177e1022aa9c0841fcec5415abfa868807b588ef24c184&=&format=webp&quality=lossless&width=687&height=392"
+      "embedImage": ""
     },
     "ticketGroups": {}
   },
@@ -24,14 +24,14 @@
       "mentionUser": true
     },
     {
-      "trigger": "Wick Studio",
-      "reply": "discord.gg/wicks {{user}}",
+      "trigger": "link",
+      "reply": "https://discord.gg/UKsDzmeT5z {{user}}",
       "mentionUser": true
     }
   ],
   "protection": {
-    "allowedGuildId": "server_id",
-    "logChannelId": "channel_id",
+    "allowedGuildId": "1233878281871298560",
+    "logChannelId": "1388100597185646745",
     "whitelistRoles": [
       "ROLE_ID_1",
       "ROLE_ID_2"
